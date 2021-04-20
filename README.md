@@ -2,7 +2,7 @@
 
 **Video**: https://youtu.be/BL8n3NDqzIs
 
-[a relative link](Final Report.pdf)
+[a relative link](Final_Report.pdf)
 
 By Christie Hung, Raymond So, Chris Sun, Erica Wu
 
