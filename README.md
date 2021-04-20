@@ -1,8 +1,8 @@
 # Mortality Prediction & Interpretation
 
 **Video**: https://youtu.be/BL8n3NDqzIs
-
-[a relative link](Final_Report.pdf)
+**Report**: [a relative link](final_report.pdf)
+**IPYNB**: [a relative link](final_code.pdf)
 
 By Christie Hung, Raymond So, Chris Sun, Erica Wu
 
