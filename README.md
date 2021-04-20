@@ -2,9 +2,9 @@
 
 **Video**: https://youtu.be/BL8n3NDqzIs
 
-: [**Report**](final_report.pdf)
+**Report**: [here](final_report.pdf)
 
-**IPYNB**: [a relative link](final_code.pdf)
+**IPYNB**: [here](final_code.pdf)
 
 By Christie Hung, Raymond So, Chris Sun, Erica Wu
 
