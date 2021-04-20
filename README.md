@@ -2,7 +2,7 @@
 
 **Video**: https://youtu.be/BL8n3NDqzIs
 
-**Report**: [a relative link](final_report.pdf)
+: [**Report**](final_report.pdf)
 
 **IPYNB**: [a relative link](final_code.pdf)
 
